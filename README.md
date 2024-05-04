@@ -1,3 +1,3 @@
 # leetcode---2024
 
-<img src="file:///C:/Users/pushp/Downloads/Pushpakumar/Interview%20preparation%20and%20%20cheat%20sheets/big-o-cheatsheet.pdf">
+<img src="https://github.com/Pushpakumar02/leetcode-2024/blob/main/big-o-cheatsheet.pdf">
