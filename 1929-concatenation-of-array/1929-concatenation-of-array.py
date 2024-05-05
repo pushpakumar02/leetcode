@@ -5,7 +5,7 @@ class Solution:
             for i in nums:
                 ans.append(i)
         return ans
-
+ 
 # Intuition and Approach:
 
 # - The problem asks for a list that is the concatenation of `nums` with itself.
