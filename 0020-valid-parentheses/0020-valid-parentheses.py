@@ -14,7 +14,7 @@ class Solution:
                  
 
 # Intuition and Approach:
-
+ 
 # - We are given a string `s` containing only parentheses, brackets, and braces.
 # - The task is to determine whether the parentheses are balanced.
 # - We use a stack data structure to track opening symbols.
