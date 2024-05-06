@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/baseball-game">682. Baseball Game</a></h2><h3>Easy-Stack</h3><hr><p>You are keeping the scores for a baseball game with strange rules. At the beginning of the game, you start with an empty record.</p>
+<h2><a href="https://leetcode.com/problems/baseball-game">682. Baseball Game</a></h2><h3>Easy - Stack</h3><hr><p>You are keeping the scores for a baseball game with strange rules. At the beginning of the game, you start with an empty record.</p>
 
 <p>You are given a list of strings <code>operations</code>, where <code>operations[i]</code> is the <code>i<sup>th</sup></code> operation you must apply to the record and is one of the following:</p>
 
