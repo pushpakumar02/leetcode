@@ -10,7 +10,7 @@ class Solution:
 
 # Intuition and Approach:
 
-# - We are given a sorted array `nums` with duplicate elements.
+# - We are given a sorted array `nums` with duplicate elements. 
 # - The goal is to modify `nums` in-place to remove duplicates and return the length of the resulting array.
 # - We maintain two pointers: `l` (left) and `r` (right).
 # - `l` starts from 1, indicating the index to place the next unique element.
