@@ -27,15 +27,6 @@
 </details>
 
 <details>
-<summary><span style="font-size:1.17em">Sliding Window</span></summary>
-
-##### - [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
-##### - [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
-##### - [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
-
-</details>
-
-<details>
 <summary><span style="font-size:1.17em">Two Pointers</span></summary>
 
 ##### - [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
@@ -50,6 +41,15 @@
 ##### - [0392 - Is Subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0392-is-subsequence)
 ##### - [0680 - Valid Palindrome II](https://github.com/Pushpakumar02/leetcode/tree/main/0680-valid-palindrome-ii)
 ##### - [1768 - Merge Strings Alternately](https://github.com/Pushpakumar02/leetcode/tree/main/1768-merge-strings-alternately)
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Sliding Window</span></summary>
+
+##### - [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
+##### - [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
+##### - [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
 
 </details>
 
@@ -69,25 +69,94 @@
 </details>
 
 <details>
-<summary><span style="font-size:1.17em">Backtracking</span></summary>
-
-##### - [0022 - Generate Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0022-generate-parentheses)
-
-</details>
-
-<details>
-<summary><span style="font-size:1.17em">String</span></summary>
-
-##### - [0058 - Length of Last Word](https://github.com/Pushpakumar02/leetcode/tree/main/0058-length-of-last-word)
-##### - [0205 - Isomorphic Strings](https://github.com/Pushpakumar02/leetcode/tree/main/0205-isomorphic-strings)
-##### - [0242 - Valid Anagram](https://github.com/Pushpakumar02/leetcode/tree/main/0242-valid-anagram)
-##### - [0290 - Word Pattern](https://github.com/Pushpakumar02/leetcode/tree/main/0290-word-pattern)
-
-</details>
-
-<details>
 <summary><span style="font-size:1.17em">Linked List</span></summary>
 
 ##### - [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
 
 </details>
+
+<details>
+<summary><span style="font-size:1.17em">Trees</span></summary>
+
+<!-- Add problems related to Trees here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
+
+<!-- Add problems related to Heap/Priority Queue here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Backtracking</span></summary>
+
+<!-- Add problems related to Backtracking here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Tries</span></summary>
+
+<!-- Add problems related to Tries here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Graphs</span></summary>
+
+<!-- Add problems related to Graphs here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Advanced Graphs</span></summary>
+
+<!-- Add problems related to Advanced Graphs here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
+
+<!-- Add problems related to 1-D Dynamic Programming here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">2-D Dynamic Programming</span></summary>
+
+<!-- Add problems related to 2-D Dynamic Programming here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Greedy</span></summary>
+
+<!-- Add problems related to Greedy here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Intervals</span></summary>
+
+<!-- Add problems related to Intervals here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Math & Geometry</span></summary>
+
+<!-- Add problems related to Math & Geometry here -->
+
+</details>
+
+<details>
+<summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
+
+<!-- Add problems related to Bit Manipulation here -->
+
+</details>
+
+
