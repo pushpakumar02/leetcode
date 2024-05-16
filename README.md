@@ -1,7 +1,7 @@
 # leetcode---2024
 
 <details>
-<summary><h3> Array </h3></summary>
+<summary>Array</summary>
 
 ##### - [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 ##### - [0014 - Longest Common Prefix](https://github.com/Pushpakumar02/leetcode/tree/main/0014-longest-common-prefix)
@@ -23,18 +23,20 @@
 ##### - [0929 - Unique Email Addresses](https://github.com/Pushpakumar02/leetcode/tree/main/0929-unique-email-addresses)
 ##### - [1299 - Replace Elements with Greatest Element on Right Side](https://github.com/Pushpakumar02/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side)
 ##### - [1929 - Concatenation of Array](https://github.com/Pushpakumar02/leetcode/tree/main/1929-concatenation-of-array)
+
 </details>
 
 <details>
-<summary>### Sliding Window</summary>
+<summary>Sliding Window</summary>
 
 ##### - [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 ##### - [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
 ##### - [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
+
 </details>
 
 <details>
-<summary>### Two Pointers</summary>
+<summary>Two Pointers</summary>
 
 ##### - [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
 ##### - [0015 - 3Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0015-3sum)
@@ -48,10 +50,11 @@
 ##### - [0392 - Is Subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0392-is-subsequence)
 ##### - [0680 - Valid Palindrome II](https://github.com/Pushpakumar02/leetcode/tree/main/0680-valid-palindrome-ii)
 ##### - [1768 - Merge Strings Alternately](https://github.com/Pushpakumar02/leetcode/tree/main/1768-merge-strings-alternately)
+
 </details>
 
 <details>
-<summary>### Stack</summary>
+<summary>Stack</summary>
 
 ##### - [0020 - Valid Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0020-valid-parentheses)
 ##### - [0022 - Generate Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0022-generate-parentheses)
@@ -62,25 +65,29 @@
 ##### - [0682 - Baseball Game](https://github.com/Pushpakumar02/leetcode/tree/main/0682-baseball-game)
 ##### - [0739 - Daily Temperatures](https://github.com/Pushpakumar02/leetcode/tree/main/0739-daily-temperatures)
 ##### - [0853 - Car Fleet](https://github.com/Pushpakumar02/leetcode/tree/main/0853-car-fleet)
+
 </details>
 
 <details>
-<summary>### Backtracking</summary>
+<summary>Backtracking</summary>
 
 ##### - [0022 - Generate Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0022-generate-parentheses)
+
 </details>
 
 <details>
-<summary>### String</summary>
+<summary>String</summary>
 
 ##### - [0058 - Length of Last Word](https://github.com/Pushpakumar02/leetcode/tree/main/0058-length-of-last-word)
 ##### - [0205 - Isomorphic Strings](https://github.com/Pushpakumar02/leetcode/tree/main/0205-isomorphic-strings)
 ##### - [0242 - Valid Anagram](https://github.com/Pushpakumar02/leetcode/tree/main/0242-valid-anagram)
 ##### - [0290 - Word Pattern](https://github.com/Pushpakumar02/leetcode/tree/main/0290-word-pattern)
+
 </details>
 
 <details>
-<summary>### Linked List</summary>
+<summary>Linked List</summary>
 
 ##### - [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
+
 </details>
