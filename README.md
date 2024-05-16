@@ -1,6 +1,6 @@
 # leetcode---2024
 
-### Array
+<h3> Array </h3>
 <details>
 <summary>Problem List</summary>
 
