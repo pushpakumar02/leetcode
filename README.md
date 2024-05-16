@@ -1,7 +1,7 @@
 # leetcode---2024
 
 <details>
-<summary>### Array</summary>
+<summary><h3> Array </h3></summary>
 
 ##### - [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 ##### - [0014 - Longest Common Prefix](https://github.com/Pushpakumar02/leetcode/tree/main/0014-longest-common-prefix)
