@@ -1,7 +1,7 @@
 # leetcode---2024
 
 <details>
-<summary>Array</summary>
+<summary><span style="font-size:1.17em">Array</span></summary>
 
 ##### - [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 ##### - [0014 - Longest Common Prefix](https://github.com/Pushpakumar02/leetcode/tree/main/0014-longest-common-prefix)
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary>Sliding Window</summary>
+<summary><span style="font-size:1.17em">Sliding Window</span></summary>
 
 ##### - [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 ##### - [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary>Two Pointers</summary>
+<summary><span style="font-size:1.17em">Two Pointers</span></summary>
 
 ##### - [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
 ##### - [0015 - 3Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0015-3sum)
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>Stack</summary>
+<summary><span style="font-size:1.17em">Stack</span></summary>
 
 ##### - [0020 - Valid Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0020-valid-parentheses)
 ##### - [0022 - Generate Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0022-generate-parentheses)
@@ -69,14 +69,14 @@
 </details>
 
 <details>
-<summary>Backtracking</summary>
+<summary><span style="font-size:1.17em">Backtracking</span></summary>
 
 ##### - [0022 - Generate Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0022-generate-parentheses)
 
 </details>
 
 <details>
-<summary>String</summary>
+<summary><span style="font-size:1.17em">String</span></summary>
 
 ##### - [0058 - Length of Last Word](https://github.com/Pushpakumar02/leetcode/tree/main/0058-length-of-last-word)
 ##### - [0205 - Isomorphic Strings](https://github.com/Pushpakumar02/leetcode/tree/main/0205-isomorphic-strings)
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary>Linked List</summary>
+<summary><span style="font-size:1.17em">Linked List</span></summary>
 
 ##### - [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
 
