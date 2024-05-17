@@ -74,6 +74,8 @@
 <summary><span style="font-size:1.17em">Binary Search</span></summary>
 
 #### 1.  [0704 - Binary Search](https://github.com/Pushpakumar02/leetcode/tree/main/0704-binary-search)
+#### 2.  [0074-search-a-2d-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0074-search-a-2d-matrix)
+
 
 </details>
 
