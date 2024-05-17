@@ -73,7 +73,7 @@
 <details>
 <summary><span style="font-size:1.17em">Binary Search</span></summary>
 
-
+#### 1. 704. [Binary Search](https://github.com/Pushpakumar02/leetcode/tree/main/0704-binary-search)
 
 </details>
 
