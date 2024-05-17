@@ -71,6 +71,13 @@
 </details>
 
 <details>
+<summary><span style="font-size:1.17em">Binary Search</span></summary>
+
+
+
+</details>
+
+<details>
 <summary><span style="font-size:1.17em">Linked List</span></summary>
 
 ##### 1. [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
