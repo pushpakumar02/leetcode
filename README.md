@@ -75,7 +75,7 @@
 
 #### 1.  [0704 - Binary Search](https://github.com/Pushpakumar02/leetcode/tree/main/0704-binary-search)
 #### 2.  [0074-search-a-2d-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0074-search-a-2d-matrix)
-
+#### 3. [875-Koko-Eating-Bananas](https://github.com/Pushpakumar02/leetcode/tree/main/0875-koko-eating-bananas)
 
 </details>
 
