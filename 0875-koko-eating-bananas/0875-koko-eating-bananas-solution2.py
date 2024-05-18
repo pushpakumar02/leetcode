@@ -20,7 +20,7 @@ class Solution:
 
 
 # video solution : https://www.youtube.com/watch?v=ceYZ5RgwQwQ
-### Intuition and Approach
+### Intuition and Approach and complexities
 
 # This problem involves finding the minimum eating speed `k` that allows Koko to eat all the bananas in `h` hours:
 
