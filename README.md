@@ -1,7 +1,7 @@
-# leetcode---2024
+# leetcode Problemset
 
 <details>
-<summary><span style="font-size:1.17em">Array</span></summary>
+<summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
 ##### 1. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 ##### 2. [0011 - Container With Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
@@ -52,6 +52,7 @@
 ##### 1. [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 ##### 2. [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
 ##### 3. [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
+#### 4. [0567 - permutation-in-string](https://github.com/Pushpakumar02/leetcode/tree/main/0567-permutation-in-string)
 
 </details>
 
