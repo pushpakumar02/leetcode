@@ -89,6 +89,7 @@
 #### 1.[0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
 #### 2. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
 #### 3. [reverse-linked-list](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
+#### 4.[0019-remove-nth-node-from-end-of-list](https://github.com/Pushpakumar02/leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
 
 </details>
 
