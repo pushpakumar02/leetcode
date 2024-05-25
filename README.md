@@ -93,6 +93,7 @@
 #### 5. [0138-copy-list-with-random-pointer](https://github.com/Pushpakumar02/leetcode/tree/main/0138-copy-list-with-random-pointer)
 #### 6. [0002-add-two-numbers](https://github.com/Pushpakumar02/leetcode/tree/main/0002-add-two-numbers)
 #### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
+#### 8. [0146-lru-cache](https://github.com/Pushpakumar02/leetcode/tree/main/0146-lru-cache)
 
 </details>
 
