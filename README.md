@@ -100,7 +100,7 @@
 <details>
 <summary><span style="font-size:1.17em">Trees</span></summary>
 
-<!-- Add problems related to Trees here -->
+#### 1. [0226-invert-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0226-invert-binary-tree)
 
 </details>
 
