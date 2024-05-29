@@ -102,6 +102,7 @@
 
 #### 1. [0226-invert-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0226-invert-binary-tree)
 #### 2. [0104-maximum-depth-of-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0104-maximum-depth-of-binary-tree)
+#### 3. [0543-diameter-of-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0543-diameter-of-binary-tree)
 
 </details>
 
