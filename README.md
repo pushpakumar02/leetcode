@@ -106,6 +106,7 @@
 #### 4. [0110-balanced-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0110-balanced-binary-tree)
 #### 5. [0100-same-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0100-same-tree)
 #### 6. [0572-subtree-of-another-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0572-subtree-of-another-tree)
+#### 7. [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree)
 
 </details>
 
