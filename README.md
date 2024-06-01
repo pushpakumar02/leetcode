@@ -119,6 +119,7 @@
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
 
 #### 1. [0703-kth-largest-element-in-a-stream](https://github.com/Pushpakumar02/leetcode/tree/main/0703-kth-largest-element-in-a-stream)
+#### 2. [1046-last-stone-weight](https://github.com/Pushpakumar02/leetcode/tree/main/1046-last-stone-weight)
 
 </details>
 
