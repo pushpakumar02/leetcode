@@ -111,6 +111,7 @@
 #### 9. [0199-binary-tree-right-side-view](https://github.com/Pushpakumar02/leetcode/tree/main/0199-binary-tree-right-side-view)
 #### 10. [1448-count-good-nodes-in-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/1448-count-good-nodes-in-binary-tree)
 #### 11. [0098-validate-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0098-validate-binary-search-tree)
+#### 12.[0230-kth-smallest-element-in-a-bst](https://github.com/Pushpakumar02/leetcode/tree/main/0230-kth-smallest-element-in-a-bst)
 </details>
 
 <details>
