@@ -118,7 +118,7 @@
 <details>
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
 
-<!-- Add problems related to Heap/Priority Queue here -->
+#### 1. [0703-kth-largest-element-in-a-stream](https://github.com/Pushpakumar02/leetcode/tree/main/0703-kth-largest-element-in-a-stream)
 
 </details>
 
