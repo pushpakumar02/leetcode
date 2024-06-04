@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 83**
+**Total Solved: 84**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -135,6 +135,7 @@
 #### 3. [0046-permutations](https://github.com/Pushpakumar02/leetcode/tree/main/0046-permutations)
 #### 4. [0090-subsets-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0090-subsets-ii)
 #### 5. [0040-combination-sum-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0040-combination-sum-ii)
+#### 6. [0079-word-search](https://github.com/Pushpakumar02/leetcode/tree/main/0079-word-search)
 
 </details>
 
