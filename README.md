@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 86**
+**Total Solved: 87**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -138,13 +138,14 @@
 #### 6. [0079-word-search](https://github.com/Pushpakumar02/leetcode/tree/main/0079-word-search)
 #### 7. [0131-palindrome-partitioning](https://github.com/Pushpakumar02/leetcode/tree/main/0131-palindrome-partitioning)
 #### 8. [0017-letter-combinations-of-a-phone-number](https://github.com/Pushpakumar02/leetcode/tree/main/0017-letter-combinations-of-a-phone-number)
+#### 9. [0051-n-queens](https://github.com/Pushpakumar02/leetcode/tree/main/0051-n-queens)
 
 </details>
 
 <details>
 <summary><span style="font-size:1.17em">Tries</span></summary>
 
-<!-- Add problems related to Tries here -->
+#### 1. [ ]()
 
 </details>
 
