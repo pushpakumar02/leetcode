@@ -128,7 +128,7 @@
 <details>
 <summary><span style="font-size:1.17em">Backtracking</span></summary>
 
-<!-- Add problems related to Backtracking here -->
+#### 1. [0078-subsets](https://github.com/Pushpakumar02/leetcode/tree/main/0078-subsets)
 
 </details>
 
