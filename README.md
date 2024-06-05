@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 88**
+**Total Solved: 89**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -146,7 +146,8 @@
 <summary><span style="font-size:1.17em">Tries</span></summary>
 
 #### 1. [0208-implement-trie-prefix-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0208-implement-trie-prefix-tree)
-#### 2. []()
+#### 2. [0211-design-add-and-search-words-data-structure](https://github.com/Pushpakumar02/leetcode/tree/main/0211-design-add-and-search-words-data-structure)
+#### 3. []()
 
 </details>
 
