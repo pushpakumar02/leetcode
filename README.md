@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 89**
+**Total Solved: 90**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -154,7 +154,7 @@
 <details>
 <summary><span style="font-size:1.17em">Graphs</span></summary>
 
-<!-- Add problems related to Graphs here -->
+#### 1. [0200-number-of-islands](https://github.com/Pushpakumar02/leetcode/tree/main/0200-number-of-islands)
 
 </details>
 
