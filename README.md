@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 95**
+**Total Solved: 96**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -160,6 +160,7 @@
 #### 4. [0286-Walls-and-Gates](https://github.com/Pushpakumar02/leetcode/tree/main/0286-Walls-and-Gates)
 #### 5. [0994-rotting-oranges](https://github.com/Pushpakumar02/leetcode/tree/main/0994-rotting-oranges)
 #### 6. [0417-pacific-atlantic-water-flow](https://github.com/Pushpakumar02/leetcode/tree/main/0417-pacific-atlantic-water-flow)
+#### 7. [0130-surrounded-regions](https://github.com/Pushpakumar02/leetcode/tree/main/0130-surrounded-regions)
 
 </details>
 
