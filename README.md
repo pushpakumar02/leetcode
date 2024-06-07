@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 93**
+**Total Solved: 94**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -158,6 +158,7 @@
 #### 2. [0695-max-area-of-island](https://github.com/Pushpakumar02/leetcode/tree/main/0695-max-area-of-island)
 #### 3. [0133-clone-graph](https://github.com/Pushpakumar02/leetcode/tree/main/0133-clone-graph)
 #### 4. [0286-Walls-and-Gates](https://github.com/Pushpakumar02/leetcode/tree/main/0286-Walls-and-Gates)
+#### 5. [0994-rotting-oranges](https://github.com/Pushpakumar02/leetcode/tree/main/0994-rotting-oranges)
 
 </details>
 
