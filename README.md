@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 98**
+**Total Solved: 100**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -164,6 +164,7 @@
 #### 8. [0207-course-schedule](https://github.com/Pushpakumar02/leetcode/tree/main/0207-course-schedule)
 #### 9. [0210-course-schedule-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0210-course-schedule-ii)
 #### 10. [0261-Graph-Valid-Tree](https://github.com/Pushpakumar02/leetcode/tree/main/0261-Graph-Valid-Tree)
+#### 11. [0684-redundant-connection](https://github.com/Pushpakumar02/leetcode/tree/main/0684-redundant-connection)
 
 </details>
 
