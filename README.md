@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 97**
+**Total Solved: 98**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -162,6 +162,7 @@
 #### 6. [0417-pacific-atlantic-water-flow](https://github.com/Pushpakumar02/leetcode/tree/main/0417-pacific-atlantic-water-flow)
 #### 7. [0130-surrounded-regions](https://github.com/Pushpakumar02/leetcode/tree/main/0130-surrounded-regions)
 #### 8. [0207-course-schedule](https://github.com/Pushpakumar02/leetcode/tree/main/0207-course-schedule)
+#### 9. [0210-course-schedule-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0210-course-schedule-ii)
 
 </details>
 
