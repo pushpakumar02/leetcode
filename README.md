@@ -181,7 +181,7 @@
 <details>
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
 
-<!-- Add problems related to 1-D Dynamic Programming here -->
+ #### 1. [0070-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0070-climbing-stairs)
 
 </details>
 
