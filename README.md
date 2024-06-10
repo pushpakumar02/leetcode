@@ -165,14 +165,15 @@
 #### 9. [0210-course-schedule-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0210-course-schedule-ii)
 #### 10. [0261-Graph-Valid-Tree](https://github.com/Pushpakumar02/leetcode/tree/main/0261-Graph-Valid-Tree)
 #### 11. [0684-redundant-connection](https://github.com/Pushpakumar02/leetcode/tree/main/0684-redundant-connection)
-#### 12. [1584-min-cost-to-connect-all-points](https://github.com/Pushpakumar02/leetcode/tree/main/1584-min-cost-to-connect-all-points)
+
 
 </details>
 
 <details>
 <summary><span style="font-size:1.17em">Advanced Graphs</span></summary>
 
-<!-- Add problems related to Advanced Graphs here -->
+#### 1. [1584-min-cost-to-connect-all-points](https://github.com/Pushpakumar02/leetcode/tree/main/1584-min-cost-to-connect-all-points)
+#### 2. [0787-cheapest-flights-within-k-stops](https://github.com/Pushpakumar02/leetcode/tree/main/0787-cheapest-flights-within-k-stops)
 
 </details>
 
