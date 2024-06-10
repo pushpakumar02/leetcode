@@ -174,6 +174,7 @@
 
 #### 1. [1584-min-cost-to-connect-all-points](https://github.com/Pushpakumar02/leetcode/tree/main/1584-min-cost-to-connect-all-points)
 #### 2. [0787-cheapest-flights-within-k-stops](https://github.com/Pushpakumar02/leetcode/tree/main/0787-cheapest-flights-within-k-stops)
+#### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
 
 </details>
 
