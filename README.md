@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 101**
+**Total Solved: 105**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -182,6 +182,7 @@
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
 
  #### 1. [0070-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0070-climbing-stairs)
+ #### 2. [0746-min-cost-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0746-min-cost-climbing-stairs)
 
 </details>
 
