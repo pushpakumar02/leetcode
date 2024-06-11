@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 109**
+**Total Solved: 110**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -187,6 +187,7 @@
  #### 4. [0213-house-robber-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0213-house-robber-ii)
  #### 5. [0005-longest-palindromic-substring](https://github.com/Pushpakumar02/leetcode/tree/main/0005-longest-palindromic-substring)
  #### 6. [0647-palindromic-substrings](https://github.com/Pushpakumar02/leetcode/tree/main/0647-palindromic-substrings)
+ #### 7. [0091-decode-ways](https://github.com/Pushpakumar02/leetcode/edit/main/0091-decode-ways)
 </details>
 
 <details>
