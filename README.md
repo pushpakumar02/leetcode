@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 105**
+**Total Solved: 106**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -183,6 +183,7 @@
 
  #### 1. [0070-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0070-climbing-stairs)
  #### 2. [0746-min-cost-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0746-min-cost-climbing-stairs)
+ #### 3. [0198-house-robber](https://github.com/Pushpakumar02/leetcode/tree/main/0198-house-robber)
 
 </details>
 
