@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decode-ways">91. Decode Ways</a></h2><h3>Medium</h3><hr><p>A message containing letters from <code>A-Z</code> can be <strong>encoded</strong> into numbers using the following mapping:</p>
+<h2><a href="https://leetcode.com/problems/decode-ways">91. Decode Ways</a></h2><h3>Medium - 1-D Dynamic Programming</h3><hr><p>A message containing letters from <code>A-Z</code> can be <strong>encoded</strong> into numbers using the following mapping:</p>
 
 <pre>
 &#39;A&#39; -&gt; &quot;1&quot;
