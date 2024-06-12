@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 113**
+**Total Solved: 114**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -191,6 +191,7 @@
  #### 8. [0322-coin-change](https://github.com/Pushpakumar02/leetcode/tree/main/0322-coin-change)
  #### 9. [0152-maximum-product-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0152-maximum-product-subarray)
  #### 10. [0139-word-break](https://github.com/Pushpakumar02/leetcode/tree/main/0139-word-break)
+ #### 11. [0300-longest-increasing-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0300-longest-increasing-subsequence)
 </details>
 
 <details>
