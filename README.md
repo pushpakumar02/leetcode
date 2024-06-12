@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 115**
+**Total Solved: 116**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -55,6 +55,8 @@
 #### 2. [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
 #### 3. [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
 #### 4. [0567 - permutation-in-string](https://github.com/Pushpakumar02/leetcode/tree/main/0567-permutation-in-string)
+#### 5. []()
+#### 6. []()
 
 </details>
 
@@ -82,6 +84,7 @@
 #### 4. [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpakumar02/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array)
 #### 5. [0033-search-in-rotated-sorted-array](https://github.com/Pushpakumar02/leetcode/tree/main/0033-search-in-rotated-sorted-array)
 #### 6. [0981-time-based-key-value-store](https://github.com/Pushpakumar02/leetcode/tree/main/0981-time-based-key-value-store)
+#### 7. []()
 
 </details>
 
@@ -96,6 +99,9 @@
 #### 6. [0002-add-two-numbers](https://github.com/Pushpakumar02/leetcode/tree/main/0002-add-two-numbers)
 #### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
 #### 8. [0146-lru-cache](https://github.com/Pushpakumar02/leetcode/tree/main/0146-lru-cache)
+#### 9. []()
+#### 10. []()
+#### 11. []()
 
 </details>
 
@@ -115,6 +121,8 @@
 #### 11. [0098-validate-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0098-validate-binary-search-tree)
 #### 12.[0230-kth-smallest-element-in-a-bst](https://github.com/Pushpakumar02/leetcode/tree/main/0230-kth-smallest-element-in-a-bst)
 #### 13. [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pushpakumar02/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal)
+#### 14. []()
+#### 15. []()
 </details>
 
 <details>
@@ -124,6 +132,10 @@
 #### 2. [1046-last-stone-weight](https://github.com/Pushpakumar02/leetcode/tree/main/1046-last-stone-weight)
 #### 3. [0973-k-closest-points-to-origin](https://github.com/Pushpakumar02/leetcode/tree/main/0973-k-closest-points-to-origin)
 #### 4. [0215-kth-largest-element-in-an-array](https://github.com/Pushpakumar02/leetcode/tree/main/0215-kth-largest-element-in-an-array)
+#### 5. []()
+#### 6. []()
+#### 7. []()
+
 
 </details>
 
@@ -165,7 +177,8 @@
 #### 9. [0210-course-schedule-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0210-course-schedule-ii)
 #### 10. [0261-Graph-Valid-Tree](https://github.com/Pushpakumar02/leetcode/tree/main/0261-Graph-Valid-Tree)
 #### 11. [0684-redundant-connection](https://github.com/Pushpakumar02/leetcode/tree/main/0684-redundant-connection)
-
+#### 12. []()
+#### 13. []()
 
 </details>
 
@@ -175,7 +188,9 @@
 #### 1. [1584-min-cost-to-connect-all-points](https://github.com/Pushpakumar02/leetcode/tree/main/1584-min-cost-to-connect-all-points)
 #### 2. [0787-cheapest-flights-within-k-stops](https://github.com/Pushpakumar02/leetcode/tree/main/0787-cheapest-flights-within-k-stops)
 #### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
-
+#### 4. []()
+#### 5. []()
+#### 6. []()
 </details>
 
 <details>
@@ -198,12 +213,18 @@
 <details>
 <summary><span style="font-size:1.17em">2-D Dynamic Programming</span></summary>
 
-#### 1. []()
-#### 1. []()
-#### 1. []()
-#### 1. []()
-#### 1. []()
-#### 1. []()
+#### 1. [0062-unique-paths](https://github.com/Pushpakumar02/leetcode/tree/main/0062-unique-paths)
+#### 2. []()
+#### 3. []()
+#### 4. []()
+#### 5. []()
+#### 6. []()
+#### 7. []()
+#### 8. []()
+#### 9. []()
+#### 10. []()
+#### 11. []()
+
 
 
 </details>
@@ -211,29 +232,54 @@
 <details>
 <summary><span style="font-size:1.17em">Greedy</span></summary>
 
-<!-- Add problems related to Greedy here -->
+#### 1. []()
+#### 2. []()
+#### 3. []()
+#### 4. []()
+#### 5. []()
+#### 6. []()
+#### 7. []()
+#### 8. []()
 
 </details>
 
 <details>
 <summary><span style="font-size:1.17em">Intervals</span></summary>
 
-<!-- Add problems related to Intervals here -->
+#### 1. []()
+#### 2. []()
+#### 3. []()
+#### 4. []()
+#### 5. []()
+#### 6. []()
 
 </details>
 
 <details>
 <summary><span style="font-size:1.17em">Math & Geometry</span></summary>
 
-<!-- Add problems related to Math & Geometry here -->
+#### 1. []()
+#### 2. []()
+#### 3. []()
+#### 4. []()
+#### 5. []()
+#### 6. []()
+#### 7. []()
+#### 8. []()
 
 </details>
 
 <details>
 <summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
 
-<!-- Add problems related to Bit Manipulation here -->
 
+#### 1. []()
+#### 2. []()
+#### 3. []()
+#### 4. []()
+#### 5. []()
+#### 6. []()
+#### 7. []()
 </details>
 
 
