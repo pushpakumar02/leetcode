@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 116**
+**Total Solved: 117**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -214,7 +214,7 @@
 <summary><span style="font-size:1.17em">2-D Dynamic Programming</span></summary>
 
 #### 1. [0062-unique-paths](https://github.com/Pushpakumar02/leetcode/tree/main/0062-unique-paths)
-#### 2. []()
+#### 2. [1143-longest-common-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/1143-longest-common-subsequence)
 #### 3. []()
 #### 4. []()
 #### 5. []()
