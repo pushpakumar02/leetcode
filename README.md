@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 114**
+**Total Solved: 115**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -192,12 +192,19 @@
  #### 9. [0152-maximum-product-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0152-maximum-product-subarray)
  #### 10. [0139-word-break](https://github.com/Pushpakumar02/leetcode/tree/main/0139-word-break)
  #### 11. [0300-longest-increasing-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0300-longest-increasing-subsequence)
+ #### 12. [0416-partition-equal-subset-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0416-partition-equal-subset-sum)
 </details>
 
 <details>
 <summary><span style="font-size:1.17em">2-D Dynamic Programming</span></summary>
 
-<!-- Add problems related to 2-D Dynamic Programming here -->
+#### 1. []()
+#### 1. []()
+#### 1. []()
+#### 1. []()
+#### 1. []()
+#### 1. []()
+
 
 </details>
 
