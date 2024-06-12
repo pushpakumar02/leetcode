@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 111**
+**Total Solved: 112**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -189,6 +189,7 @@
  #### 6. [0647-palindromic-substrings](https://github.com/Pushpakumar02/leetcode/tree/main/0647-palindromic-substrings)
  #### 7. [0091-decode-ways](https://github.com/Pushpakumar02/leetcode/edit/main/0091-decode-ways)
  #### 8. [0322-coin-change](https://github.com/Pushpakumar02/leetcode/tree/main/0322-coin-change)
+ #### 9. [0152-maximum-product-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0152-maximum-product-subarray)
 </details>
 
 <details>
