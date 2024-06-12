@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-**Total Solved: 112**
+**Total Solved: 113**
 
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
@@ -190,6 +190,7 @@
  #### 7. [0091-decode-ways](https://github.com/Pushpakumar02/leetcode/edit/main/0091-decode-ways)
  #### 8. [0322-coin-change](https://github.com/Pushpakumar02/leetcode/tree/main/0322-coin-change)
  #### 9. [0152-maximum-product-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0152-maximum-product-subarray)
+ #### 10. [0139-word-break](https://github.com/Pushpakumar02/leetcode/tree/main/0139-word-break)
 </details>
 
 <details>
