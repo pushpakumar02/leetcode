@@ -1,7 +1,7 @@
 # leetcode Problemset
+<!--
 
 **Total Solved: 118**
-<!--
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
  
@@ -283,7 +283,7 @@
 #### 7. []()
 </details>
 
-## Blind 75
+## Blind 75 https://www.techinterviewhandbook.org/grind75?grouping=topics
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 <summary><span style="font-size:1.17em">Two Pointers</span></summary>
@@ -306,27 +306,27 @@
 -->
 
 
-## Neetcode 150
+Neetcode 150
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
-#### 6. []()
-#### 7. []()
-#### 8. []()
-#### 9. []()
+#### 1. [0217 - Contains Duplicate](https://github.com/Pushpakumar02/leetcode/tree/main/0217-contains-duplicate)
+#### 2. [0242-valid-anagram](https://github.com/Pushpakumar02/leetcode/tree/main/0242-valid-anagram)
+#### 3. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
+#### 4. [0049 - Group Anagrams](https://github.com/Pushpakumar02/leetcode/tree/main/0049-group-anagrams)
+#### 5. [0347 - Top K Frequent Elements](https://github.com/Pushpakumar02/leetcode/tree/main/0347-top-k-frequent-elements)
+#### 6. [0271 - Encode and Decode Strings](https://github.com/Pushpakumar02/leetcode/tree/main/0271-encode-and-decode-strings) 
+#### 7. [0238 - Product of Array Except Self](https://github.com/Pushpakumar02/leetcode/tree/main/0238-product-of-array-except-self)
+#### 8. [0036 - Valid Sudoku](https://github.com/Pushpakumar02/leetcode/tree/main/0036-valid-sudoku)
+#### 9. [0128 - Longest Consecutive Sequence](https://github.com/Pushpakumar02/leetcode/tree/main/0128-longest-consecutive-sequence)
 
 <summary><span style="font-size:1.17em">Two Pointers</span></summary>
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
+#### 1. [0125 - Valid Palindrome](https://github.com/Pushpakumar02/leetcode/tree/main/0125-valid-palindrome)
+#### 2. [0167 - Two Sum II - Input Array is Sorted](https://github.com/Pushpakumar02/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted)
+#### 3. [0167 - Two Sum II - Input Array is Sorted](https://github.com/Pushpakumar02/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted)
+#### 4. [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
+#### 5. [0042 - Trapping Rain Water](https://github.com/Pushpakumar02/leetcode/tree/main/0042-trapping-rain-water)
 
 <summary><span style="font-size:1.17em">Sliding Window</span></summary>
 
@@ -339,13 +339,13 @@
 
 <summary><span style="font-size:1.17em">Stack</span></summary>
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
-#### 6. []()
-#### 7. []()
+#### 1. [0020 - Valid Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0020-valid-parentheses)
+#### 2. [0155 - Min Stack](https://github.com/Pushpakumar02/leetcode/tree/main/0155-min-stack)
+#### 3. [0150 - Evaluate Reverse Polish Notation](https://github.com/Pushpakumar02/leetcode/tree/main/0150-evaluate-reverse-polish-notation)
+#### 4. [0022 - Generate Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0022-generate-parentheses)
+#### 5. [0739 - Daily Temperatures](https://github.com/Pushpakumar02/leetcode/tree/main/0739-daily-temperatures)
+#### 6. [0853 - Car Fleet](https://github.com/Pushpakumar02/leetcode/tree/main/0853-car-fleet)
+#### 7. [0084 - Largest Rectangle in Histogram](https://github.com/Pushpakumar02/leetcode/tree/main/0084-largest-rectangle-in-histogram)
 
 <summary><span style="font-size:1.17em">Binary Search</span></summary>
 
