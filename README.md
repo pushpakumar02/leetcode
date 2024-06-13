@@ -217,7 +217,7 @@
 #### 2. [1143-longest-common-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/1143-longest-common-subsequence)
 #### 3. [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Pushpakumar02/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown)
 #### 4. [0518-coin-change-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0518-coin-change-ii)
-#### 5. []()
+#### 5. [0494-target-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0494-target-sum)
 #### 6. []()
 #### 7. []()
 #### 8. []()
