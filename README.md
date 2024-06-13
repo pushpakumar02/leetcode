@@ -2,7 +2,7 @@
 
 **Total Solved: 118**
 
-<details>
+
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
 #### 1. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
@@ -28,7 +28,7 @@
 #### 21. [1299 - Replace Elements with Greatest Element on Right Side](https://github.com/Pushpakumar02/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side)
 #### 22. [1929 - Concatenation of Array](https://github.com/Pushpakumar02/leetcode/tree/main/1929-concatenation-of-array)
 
-</details>
+
 
 <details>
 <summary><span style="font-size:1.17em">Two Pointers</span></summary>
