@@ -4,7 +4,8 @@
 
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
-
+<details>
+ 
 #### 1. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 #### 2. [0014 - Longest Common Prefix](https://github.com/Pushpakumar02/leetcode/tree/main/0014-longest-common-prefix)
 #### 3. [0036 - Valid Sudoku](https://github.com/Pushpakumar02/leetcode/tree/main/0036-valid-sudoku)
@@ -28,6 +29,7 @@
 #### 21. [1299 - Replace Elements with Greatest Element on Right Side](https://github.com/Pushpakumar02/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side)
 #### 22. [1929 - Concatenation of Array](https://github.com/Pushpakumar02/leetcode/tree/main/1929-concatenation-of-array)
 
+</details>
 
 
 <details>
