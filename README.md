@@ -2,9 +2,8 @@
 
 **Total Solved: 118**
 
-
-<summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 <details>
+<summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
  
 #### 1. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 #### 2. [0014 - Longest Common Prefix](https://github.com/Pushpakumar02/leetcode/tree/main/0014-longest-common-prefix)
