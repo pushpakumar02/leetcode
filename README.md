@@ -176,7 +176,7 @@
 #### 4. [0134-gas-station](https://github.com/Pushpakumar02/leetcode/tree/main/0134-gas-station)
 #### 5. [0846-hand-of-straights](https://github.com/Pushpakumar02/leetcode/tree/main/0846-hand-of-straights)
 #### 6. [1899-merge-triplets-to-form-target-triplet](https://github.com/Pushpakumar02/leetcode/tree/main/1899-merge-triplets-to-form-target-triplet)
-#### 7. []()
+#### 7. [0763-partition-labels](https://github.com/Pushpakumar02/leetcode/tree/main/0763-partition-labels)
 #### 8. []()
 
 <summary><span style="font-size:1.17em">Intervals</span></summary>
@@ -209,6 +209,13 @@
 #### 5. []()
 #### 6. []()
 #### 7. []()
+
+
+
+
+
+
+
 
 
 <!--
