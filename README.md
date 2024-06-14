@@ -175,7 +175,7 @@
 #### 3. [0045-jump-game-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0045-jump-game-ii)
 #### 4. [0134-gas-station](https://github.com/Pushpakumar02/leetcode/tree/main/0134-gas-station)
 #### 5. [0846-hand-of-straights](https://github.com/Pushpakumar02/leetcode/tree/main/0846-hand-of-straights)
-#### 6. []()
+#### 6. [1899-merge-triplets-to-form-target-triplet](https://github.com/Pushpakumar02/leetcode/tree/main/1899-merge-triplets-to-form-target-triplet)
 #### 7. []()
 #### 8. []()
 
