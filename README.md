@@ -174,7 +174,7 @@
 #### 2. [0055-jump-game](https://github.com/Pushpakumar02/leetcode/tree/main/0055-jump-game)
 #### 3. [0045-jump-game-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0045-jump-game-ii)
 #### 4. [0134-gas-station](https://github.com/Pushpakumar02/leetcode/tree/main/0134-gas-station)
-#### 5. []()
+#### 5. [0846-hand-of-straights](https://github.com/Pushpakumar02/leetcode/tree/main/0846-hand-of-straights)
 #### 6. []()
 #### 7. []()
 #### 8. []()
