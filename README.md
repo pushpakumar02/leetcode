@@ -182,7 +182,7 @@
 <summary><span style="font-size:1.17em">Intervals</span></summary>
 
 #### 1. [0057-insert-interval](https://github.com/Pushpakumar02/leetcode/tree/main/0057-insert-interval)
-#### 2. []()
+#### 2. [0056-merge-intervals](https://github.com/Pushpakumar02/leetcode/tree/main/0056-merge-intervals)
 #### 3. []()
 #### 4. []()
 #### 5. []()
