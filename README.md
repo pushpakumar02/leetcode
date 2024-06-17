@@ -18,7 +18,7 @@
 
 #### 1. [0125 - Valid Palindrome](https://github.com/Pushpakumar02/leetcode/tree/main/0125-valid-palindrome)
 #### 2. [0167 - Two Sum II - Input Array is Sorted](https://github.com/Pushpakumar02/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted)
-#### 3. [0167 - Two Sum II - Input Array is Sorted](https://github.com/Pushpakumar02/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted)
+#### 3. [0015-3sum](https://github.com/Pushpakumar02/leetcode/tree/main/0015-3sum)
 #### 4. [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
 #### 5. [0042 - Trapping Rain Water](https://github.com/Pushpakumar02/leetcode/tree/main/0042-trapping-rain-water)
 
@@ -196,7 +196,7 @@
 #### 3. [0048-rotate-image](https://github.com/Pushpakumar02/leetcode/tree/main/0048-rotate-image)
 #### 4. [0054-spiral-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0054-spiral-matrix)
 #### 5. [0073-set-matrix-zeroes](https://github.com/Pushpakumar02/leetcode/tree/main/0073-set-matrix-zeroes)
-#### 6. []()
+#### 6. [0050-powx-n](https://github.com/Pushpakumar02/leetcode/tree/main/0050-powx-n)
 #### 7. []()
 #### 8. []()
 
@@ -233,10 +233,39 @@
 ## Blind 75 https://www.techinterviewhandbook.org/grind75?grouping=topics
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
+
+#### 1. [0217 - Contains Duplicate](https://github.com/Pushpakumar02/leetcode/tree/main/0217-contains-duplicate)
+#### 2. [0242-valid-anagram](https://github.com/Pushpakumar02/leetcode/tree/main/0242-valid-anagram)
+#### 3. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
+#### 4. [0049 - Group Anagrams](https://github.com/Pushpakumar02/leetcode/tree/main/0049-group-anagrams)
+#### 5. [0347 - Top K Frequent Elements](https://github.com/Pushpakumar02/leetcode/tree/main/0347-top-k-frequent-elements)
+#### 6. [0271 - Encode and Decode Strings](https://github.com/Pushpakumar02/leetcode/tree/main/0271-encode-and-decode-strings) 
+#### 7. [0238 - Product of Array Except Self](https://github.com/Pushpakumar02/leetcode/tree/main/0238-product-of-array-except-self)
+#### 8. [0128 - Longest Consecutive Sequence](https://github.com/Pushpakumar02/leetcode/tree/main/0128-longest-consecutive-sequence)
+
 <summary><span style="font-size:1.17em">Two Pointers</span></summary>
+
+#### 1. [0125 - Valid Palindrome](https://github.com/Pushpakumar02/leetcode/tree/main/0125-valid-palindrome)
+#### 2. [0015-3sum](https://github.com/Pushpakumar02/leetcode/tree/main/0015-3sum)
+#### 3. [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
+
 <summary><span style="font-size:1.17em">Sliding Window</span></summary>
+
+#### 1. [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
+#### 2. [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
+#### 3. [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
+#### 4. []()
+
+
 <summary><span style="font-size:1.17em">Stack</span></summary>
+
+#### 1. [0020 - Valid Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0020-valid-parentheses)
+
 <summary><span style="font-size:1.17em">Binary Search</span></summary>
+
+#### 1. [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpakumar02/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array)
+#### 2. [0033-search-in-rotated-sorted-array](https://github.com/Pushpakumar02/leetcode/tree/main/0033-search-in-rotated-sorted-array)
+
 <summary><span style="font-size:1.17em">Linked List</span></summary>
 <summary><span style="font-size:1.17em">Trees</span></summary>
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
