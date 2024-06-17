@@ -1,6 +1,6 @@
 # leetcode Problemset
 
-## Neetcode 150
+ Neetcode 150
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
@@ -55,12 +55,12 @@
 
 #### 1. [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
 #### 2. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
-#### 3. [reverse-linked-list](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
+#### 3. [0146-lru-cache](https://github.com/Pushpakumar02/leetcode/tree/main/0146-lru-cache)
 #### 4. [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpakumar02/leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
 #### 5. [0138-copy-list-with-random-pointer](https://github.com/Pushpakumar02/leetcode/tree/main/0138-copy-list-with-random-pointer)
 #### 6. [0002-add-two-numbers](https://github.com/Pushpakumar02/leetcode/tree/main/0002-add-two-numbers)
 #### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
-#### 8. [0146-lru-cache](https://github.com/Pushpakumar02/leetcode/tree/main/0146-lru-cache)
+#### 8. []()
 #### 9. []()
 #### 10. []()
 #### 11. []()
@@ -230,7 +230,8 @@
 
 
 <!--
-## Blind 75 https://www.techinterviewhandbook.org/grind75?grouping=topics
+## Blind 75 
+https://www.techinterviewhandbook.org/grind75?grouping=topics
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
@@ -267,6 +268,19 @@
 #### 2. [0033-search-in-rotated-sorted-array](https://github.com/Pushpakumar02/leetcode/tree/main/0033-search-in-rotated-sorted-array)
 
 <summary><span style="font-size:1.17em">Linked List</span></summary>
+
+#### 1. [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
+#### 2. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
+#### 3. [reverse-linked-list](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
+#### 4. [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpakumar02/leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
+#### 5. [0138-copy-list-with-random-pointer](https://github.com/Pushpakumar02/leetcode/tree/main/0138-copy-list-with-random-pointer)
+#### 6. [0002-add-two-numbers](https://github.com/Pushpakumar02/leetcode/tree/main/0002-add-two-numbers)
+#### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
+#### 8. [0146-lru-cache](https://github.com/Pushpakumar02/leetcode/tree/main/0146-lru-cache)
+#### 9. []()
+#### 10. []()
+#### 11. []()
+
 <summary><span style="font-size:1.17em">Trees</span></summary>
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
 <summary><span style="font-size:1.17em">Backtracking</span></summary>
