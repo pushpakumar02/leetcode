@@ -191,7 +191,7 @@
 
 <summary><span style="font-size:1.17em">Math & Geometry</span></summary>
 
-#### 1. []()
+#### 1. [0202-happy-number](https://github.com/Pushpakumar02/leetcode/tree/main/0202-happy-number)
 #### 2. []()
 #### 3. []()
 #### 4. []()
