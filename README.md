@@ -195,7 +195,7 @@
 #### 2. [0066-plus-one](https://github.com/Pushpakumar02/leetcode/tree/main/0066-plus-one)
 #### 3. [0048-rotate-image](https://github.com/Pushpakumar02/leetcode/tree/main/0048-rotate-image)
 #### 4. [0054-spiral-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0054-spiral-matrix)
-#### 5. []()
+#### 5. [0073-set-matrix-zeroes](https://github.com/Pushpakumar02/leetcode/tree/main/0073-set-matrix-zeroes)
 #### 6. []()
 #### 7. []()
 #### 8. []()
