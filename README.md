@@ -60,7 +60,7 @@
 #### 5. [0138-copy-list-with-random-pointer](https://github.com/Pushpakumar02/leetcode/tree/main/0138-copy-list-with-random-pointer)
 #### 6. [0002-add-two-numbers](https://github.com/Pushpakumar02/leetcode/tree/main/0002-add-two-numbers)
 #### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
-#### 8. []()
+#### 8. [0021-merge-two-sorted-lists](https://github.com/Pushpakumar02/leetcode/tree/main/0021-merge-two-sorted-lists)
 #### 9. []()
 #### 10. []()
 #### 11. []()
@@ -198,7 +198,7 @@
 #### 5. [0073-set-matrix-zeroes](https://github.com/Pushpakumar02/leetcode/tree/main/0073-set-matrix-zeroes)
 #### 6. [0050-powx-n](https://github.com/Pushpakumar02/leetcode/tree/main/0050-powx-n)
 #### 7. [0043-multiply-strings](https://github.com/Pushpakumar02/leetcode/tree/main/0043-multiply-strings)
-#### 8. []()
+#### 8. [2013-detect-squares](https://github.com/Pushpakumar02/leetcode/tree/main/2013-detect-squares)
 
 <summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
 
