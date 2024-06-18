@@ -202,7 +202,7 @@
 
 <summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
 
-#### 1. []()
+#### 1. [0136-single-number](https://github.com/Pushpakumar02/leetcode/tree/main/0136-single-number)
 #### 2. []()
 #### 3. []()
 #### 4. []()
