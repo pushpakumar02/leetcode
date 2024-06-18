@@ -197,7 +197,7 @@
 #### 4. [0054-spiral-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0054-spiral-matrix)
 #### 5. [0073-set-matrix-zeroes](https://github.com/Pushpakumar02/leetcode/tree/main/0073-set-matrix-zeroes)
 #### 6. [0050-powx-n](https://github.com/Pushpakumar02/leetcode/tree/main/0050-powx-n)
-#### 7. []()
+#### 7. [0043-multiply-strings](https://github.com/Pushpakumar02/leetcode/tree/main/0043-multiply-strings)
 #### 8. []()
 
 <summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
