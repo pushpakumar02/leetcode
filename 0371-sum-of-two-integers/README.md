@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-two-integers/">371. Sum of Two Integers</a></h2><h3>Medium</h3><hr><p>Given two integers <code>a</code> and <code>b</code>, return <em>the sum of the two integers without using the operators</em> <code>+</code> <em>and</em> <code>-</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-two-integers/">371. Sum of Two Integers</a></h2><h3>Medium - Bit Manipulation</h3><hr><p>Given two integers <code>a</code> and <code>b</code>, return <em>the sum of the two integers without using the operators</em> <code>+</code> <em>and</em> <code>-</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
