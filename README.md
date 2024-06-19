@@ -208,7 +208,7 @@
 #### 4. [0190-reverse-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0190-reverse-bits)
 #### 5. [0268-missing-number](https://github.com/Pushpakumar02/leetcode/tree/main/0268-missing-number)
 #### 6. [0371-sum-of-two-integers](https://github.com/Pushpakumar02/leetcode/tree/main/0371-sum-of-two-integers)
-#### 7. []()
+#### 7. [0007-reverse-integer](https://github.com/Pushpakumar02/leetcode/tree/main/0007-reverse-integer)
 
 
 
@@ -271,15 +271,11 @@ https://www.techinterviewhandbook.org/grind75?grouping=topics
 
 #### 1. [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
 #### 2. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
-#### 3. [reverse-linked-list](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
+#### 3. 
 #### 4. [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpakumar02/leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
-#### 5. [0138-copy-list-with-random-pointer](https://github.com/Pushpakumar02/leetcode/tree/main/0138-copy-list-with-random-pointer)
-#### 6. [0002-add-two-numbers](https://github.com/Pushpakumar02/leetcode/tree/main/0002-add-two-numbers)
-#### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
-#### 8. [0146-lru-cache](https://github.com/Pushpakumar02/leetcode/tree/main/0146-lru-cache)
-#### 9. []()
-#### 10. []()
-#### 11. []()
+#### 5. []()
+#### 6. []()
+#### 7. []()
 
 <summary><span style="font-size:1.17em">Trees</span></summary>
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
