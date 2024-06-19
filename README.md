@@ -204,7 +204,7 @@
 
 #### 1. [0136-single-number](https://github.com/Pushpakumar02/leetcode/tree/main/0136-single-number)
 #### 2. [0191-number-of-1-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0191-number-of-1-bits)
-#### 3. []()
+#### 3. [0338-counting-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0338-counting-bits)
 #### 4. []()
 #### 5. []()
 #### 6. []()
