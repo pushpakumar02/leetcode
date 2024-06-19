@@ -206,7 +206,7 @@
 #### 2. [0191-number-of-1-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0191-number-of-1-bits)
 #### 3. [0338-counting-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0338-counting-bits)
 #### 4. [0190-reverse-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0190-reverse-bits)
-#### 5. []()
+#### 5. [0268-missing-number](https://github.com/Pushpakumar02/leetcode/tree/main/0268-missing-number)
 #### 6. []()
 #### 7. []()
 
