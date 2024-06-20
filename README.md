@@ -1,6 +1,6 @@
 # leetcode Problemset
 
- [Neetcode 150](https://neetcode.io/practice)
+### [Neetcode 150](https://neetcode.io/practice)
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
@@ -212,7 +212,7 @@
 
 
 
-[Blind 75](https://www.techinterviewhandbook.org/grind75?grouping=topics)
+### [Blind 75](https://www.techinterviewhandbook.org/grind75?grouping=topics)
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
