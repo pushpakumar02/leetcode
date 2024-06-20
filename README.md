@@ -210,10 +210,9 @@
 #### 6. [0371-sum-of-two-integers](https://github.com/Pushpakumar02/leetcode/tree/main/0371-sum-of-two-integers)
 #### 7. [0007-reverse-integer](https://github.com/Pushpakumar02/leetcode/tree/main/0007-reverse-integer)
 
-
+---
 
 ### [Blind 75](https://www.techinterviewhandbook.org/grind75?grouping=topics)
----
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
