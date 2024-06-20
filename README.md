@@ -1,6 +1,6 @@
 # leetcode Problemset
 
- Neetcode 150
+ [Neetcode 150](https://neetcode.io/practice)
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
@@ -212,26 +212,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-## Blind 75 
-https://www.techinterviewhandbook.org/grind75?grouping=topics
+[Blind 75](https://www.techinterviewhandbook.org/grind75?grouping=topics)
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
 
@@ -270,29 +251,106 @@ https://www.techinterviewhandbook.org/grind75?grouping=topics
 <summary><span style="font-size:1.17em">Linked List</span></summary>
 
 #### 1. [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
-#### 2. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
-#### 3. 
+#### 2. [0021-merge-two-sorted-lists](https://github.com/Pushpakumar02/leetcode/tree/main/0021-merge-two-sorted-lists)
+#### 3. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
 #### 4. [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpakumar02/leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
 #### 5. []()
 #### 6. []()
-#### 7. []()
 
 <summary><span style="font-size:1.17em">Trees</span></summary>
+
+#### 1. [0226-invert-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0226-invert-binary-tree)
+#### 2. [0104-maximum-depth-of-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0104-maximum-depth-of-binary-tree)
+#### 3. [0100-same-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0100-same-tree)
+#### 4. [0572-subtree-of-another-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0572-subtree-of-another-tree)
+#### 5. [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree)
+#### 6. [0102-binary-tree-level-order-traversal](https://github.com/Pushpakumar02/leetcode/tree/main/0102-binary-tree-level-order-traversal)
+#### 7. [0098-validate-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0098-validate-binary-search-tree)
+#### 8. [0230-kth-smallest-element-in-a-bst](https://github.com/Pushpakumar02/leetcode/tree/main/0230-kth-smallest-element-in-a-bst)
+#### 9. [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pushpakumar02/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal)
+#### 10. 
+#### 11. 
+
+
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
+
+#### 11. []()
+
 <summary><span style="font-size:1.17em">Backtracking</span></summary>
+
+#### 1. [0039-combination-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0039-combination-sum)
+#### 2. [0079-word-search](https://github.com/Pushpakumar02/leetcode/tree/main/0079-word-search)
+
 <summary><span style="font-size:1.17em">Tries</span></summary>
+
+#### 1. [0208-implement-trie-prefix-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0208-implement-trie-prefix-tree)
+#### 2. [0211-design-add-and-search-words-data-structure](https://github.com/Pushpakumar02/leetcode/tree/main/0211-design-add-and-search-words-data-structure)
+#### 3. []()
+
 <summary><span style="font-size:1.17em">Graphs</span></summary>
+
+#### 1. [0200-number-of-islands](https://github.com/Pushpakumar02/leetcode/tree/main/0200-number-of-islands)
+#### 2. [0133-clone-graph](https://github.com/Pushpakumar02/leetcode/tree/main/0133-clone-graph)
+#### 3. [0417-pacific-atlantic-water-flow](https://github.com/Pushpakumar02/leetcode/tree/main/0417-pacific-atlantic-water-flow)
+#### 4. [0207-course-schedule](https://github.com/Pushpakumar02/leetcode/tree/main/0207-course-schedule)
+#### 5. [0261-Graph-Valid-Tree](https://github.com/Pushpakumar02/leetcode/tree/main/0261-Graph-Valid-Tree)
+#### 6. 
+
+
 <summary><span style="font-size:1.17em">Advanced Graphs</span></summary>
+
+#### 1. []()
+
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
+
+#### 1. [0070-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0070-climbing-stairs)
+#### 2. [0198-house-robber](https://github.com/Pushpakumar02/leetcode/tree/main/0198-house-robber)
+#### 3. [0213-house-robber-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0213-house-robber-ii)
+#### 4. [0005-longest-palindromic-substring](https://github.com/Pushpakumar02/leetcode/tree/main/0005-longest-palindromic-substring)
+#### 5. [0647-palindromic-substrings](https://github.com/Pushpakumar02/leetcode/tree/main/0647-palindromic-substrings)
+#### 6. [0091-decode-ways](https://github.com/Pushpakumar02/leetcode/edit/main/0091-decode-ways)
+#### 7. [0322-coin-change](https://github.com/Pushpakumar02/leetcode/tree/main/0322-coin-change)
+#### 8. [0152-maximum-product-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0152-maximum-product-subarray)
+#### 9. [0139-word-break](https://github.com/Pushpakumar02/leetcode/tree/main/0139-word-break)
+#### 10. [0300-longest-increasing-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0300-longest-increasing-subsequence)
+
+
 <summary><span style="font-size:1.17em">2-D Dynamic Programming</span></summary>
+
+#### 1. [0062-unique-paths](https://github.com/Pushpakumar02/leetcode/tree/main/0062-unique-paths)
+#### 2. [1143-longest-common-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/1143-longest-common-subsequence)
+
 <summary><span style="font-size:1.17em">Greedy</span></summary>
+
+#### 1. [0053-maximum-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0053-maximum-subarray)
+#### 2. [0055-jump-game](https://github.com/Pushpakumar02/leetcode/tree/main/0055-jump-game)
+
 <summary><span style="font-size:1.17em">Intervals</span></summary>
+
+#### 1. [0057-insert-interval](https://github.com/Pushpakumar02/leetcode/tree/main/0057-insert-interval)
+#### 2. [0056-merge-intervals](https://github.com/Pushpakumar02/leetcode/tree/main/0056-merge-intervals)
+#### 3. [0435-non-overlapping-intervals](https://github.com/Pushpakumar02/leetcode/tree/main/0435-non-overlapping-intervals)
+#### 4. [0252-Meeting-Rooms](https://github.com/Pushpakumar02/leetcode/tree/main/0252-Meeting-Rooms)
+#### 5. [0253-Meeting-Rooms-II](https://github.com/Pushpakumar02/leetcode/tree/main/0253-Meeting-Rooms-II)
+
+
 <summary><span style="font-size:1.17em">Math & Geometry</span></summary>
+
+#### 1. [0048-rotate-image](https://github.com/Pushpakumar02/leetcode/tree/main/0048-rotate-image)
+#### 2. [0054-spiral-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0054-spiral-matrix)
+#### 3. [0073-set-matrix-zeroes](https://github.com/Pushpakumar02/leetcode/tree/main/0073-set-matrix-zeroes)
+
 <summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
 
+#### 1. [0191-number-of-1-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0191-number-of-1-bits)
+#### 2. [0338-counting-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0338-counting-bits)
+#### 3. [0190-reverse-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0190-reverse-bits)
+#### 4. [0268-missing-number](https://github.com/Pushpakumar02/leetcode/tree/main/0268-missing-number)
+#### 5. [0371-sum-of-two-integers](https://github.com/Pushpakumar02/leetcode/tree/main/0371-sum-of-two-integers)
 
 
 
+<!--
 
 
 
@@ -525,58 +583,48 @@ https://www.techinterviewhandbook.org/grind75?grouping=topics
 
 </details>
 
-<details>
 <summary><span style="font-size:1.17em">Greedy</span></summary>
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
-#### 6. []()
-#### 7. []()
-#### 8. []()
+#### 1. [0053-maximum-subarray](https://github.com/Pushpakumar02/leetcode/tree/main/0053-maximum-subarray)
+#### 2. [0055-jump-game](https://github.com/Pushpakumar02/leetcode/tree/main/0055-jump-game)
+#### 3. [0045-jump-game-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0045-jump-game-ii)
+#### 4. [0134-gas-station](https://github.com/Pushpakumar02/leetcode/tree/main/0134-gas-station)
+#### 5. [0846-hand-of-straights](https://github.com/Pushpakumar02/leetcode/tree/main/0846-hand-of-straights)
+#### 6. [1899-merge-triplets-to-form-target-triplet](https://github.com/Pushpakumar02/leetcode/tree/main/1899-merge-triplets-to-form-target-triplet)
+#### 7. [0763-partition-labels](https://github.com/Pushpakumar02/leetcode/tree/main/0763-partition-labels)
+#### 8. [0678-valid-parenthesis-string](https://github.com/Pushpakumar02/leetcode/tree/main/0678-valid-parenthesis-string)
 
-</details>
-
-<details>
 <summary><span style="font-size:1.17em">Intervals</span></summary>
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
+#### 1. [0057-insert-interval](https://github.com/Pushpakumar02/leetcode/tree/main/0057-insert-interval)
+#### 2. [0056-merge-intervals](https://github.com/Pushpakumar02/leetcode/tree/main/0056-merge-intervals)
+#### 3. [0435-non-overlapping-intervals](https://github.com/Pushpakumar02/leetcode/tree/main/0435-non-overlapping-intervals)
+#### 4. [0252-Meeting-Rooms](https://github.com/Pushpakumar02/leetcode/tree/main/0252-Meeting-Rooms)
+#### 5. [0253-Meeting-Rooms-II](https://github.com/Pushpakumar02/leetcode/tree/main/0253-Meeting-Rooms-II)
 #### 6. []()
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Math & Geometry</span></summary>
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
-#### 6. []()
-#### 7. []()
-#### 8. []()
+#### 1. [0202-happy-number](https://github.com/Pushpakumar02/leetcode/tree/main/0202-happy-number)
+#### 2. [0066-plus-one](https://github.com/Pushpakumar02/leetcode/tree/main/0066-plus-one)
+#### 3. [0048-rotate-image](https://github.com/Pushpakumar02/leetcode/tree/main/0048-rotate-image)
+#### 4. [0054-spiral-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0054-spiral-matrix)
+#### 5. [0073-set-matrix-zeroes](https://github.com/Pushpakumar02/leetcode/tree/main/0073-set-matrix-zeroes)
+#### 6. [0050-powx-n](https://github.com/Pushpakumar02/leetcode/tree/main/0050-powx-n)
+#### 7. [0043-multiply-strings](https://github.com/Pushpakumar02/leetcode/tree/main/0043-multiply-strings)
+#### 8. [2013-detect-squares](https://github.com/Pushpakumar02/leetcode/tree/main/2013-detect-squares)
 
-</details>
-
-<details>
 <summary><span style="font-size:1.17em">Bit Manipulation</span></summary>
 
+#### 1. [0136-single-number](https://github.com/Pushpakumar02/leetcode/tree/main/0136-single-number)
+#### 2. [0191-number-of-1-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0191-number-of-1-bits)
+#### 3. [0338-counting-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0338-counting-bits)
+#### 4. [0190-reverse-bits](https://github.com/Pushpakumar02/leetcode/tree/main/0190-reverse-bits)
+#### 5. [0268-missing-number](https://github.com/Pushpakumar02/leetcode/tree/main/0268-missing-number)
+#### 6. [0371-sum-of-two-integers](https://github.com/Pushpakumar02/leetcode/tree/main/0371-sum-of-two-integers)
+#### 7. [0007-reverse-integer](https://github.com/Pushpakumar02/leetcode/tree/main/0007-reverse-integer)
 
-#### 1. []()
-#### 2. []()
-#### 3. []()
-#### 4. []()
-#### 5. []()
-#### 6. []()
-#### 7. []()
-</details>
 
 
 
