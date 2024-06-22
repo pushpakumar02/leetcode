@@ -28,7 +28,7 @@
 #### 2. [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
 #### 3. [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
 #### 4. [0567 - permutation-in-string](https://github.com/Pushpakumar02/leetcode/tree/main/0567-permutation-in-string)
-#### 5. []()
+#### 5. [0076-minimum-window-substring](https://github.com/Pushpakumar02/leetcode/tree/main/0076-minimum-window-substring)
 #### 6. []()
 
 <summary><span style="font-size:1.17em">Stack</span></summary>
@@ -236,7 +236,7 @@
 #### 1. [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 #### 2. [0121 - Best Time to Buy and Sell Stock](https://github.com/Pushpakumar02/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
 #### 3. [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
-#### 4. []()
+#### 4. [0076-minimum-window-substring](https://github.com/Pushpakumar02/leetcode/tree/main/0076-minimum-window-substring)
 
 
 <summary><span style="font-size:1.17em">Stack</span></summary>
