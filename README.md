@@ -29,7 +29,7 @@
 #### 3. [0424 - Longest Repeating Character Replacement](https://github.com/Pushpakumar02/leetcode/tree/main/0424-longest-repeating-character-replacement)
 #### 4. [0567 - permutation-in-string](https://github.com/Pushpakumar02/leetcode/tree/main/0567-permutation-in-string)
 #### 5. [0076-minimum-window-substring](https://github.com/Pushpakumar02/leetcode/tree/main/0076-minimum-window-substring)
-#### 6. []()
+#### 6. [0239-sliding-window-maximum](https://github.com/Pushpakumar02/leetcode/tree/main/0239-sliding-window-maximum)
 
 <summary><span style="font-size:1.17em">Stack</span></summary>
 
