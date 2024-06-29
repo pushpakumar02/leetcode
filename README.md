@@ -62,7 +62,7 @@
 #### 7. [0287-find-the-duplicate-number](https://github.com/Pushpakumar02/leetcode/tree/main/0287-find-the-duplicate-number)
 #### 8. [0021-merge-two-sorted-lists](https://github.com/Pushpakumar02/leetcode/tree/main/0021-merge-two-sorted-lists)
 #### 9. [0143-reorder-list](https://github.com/Pushpakumar02/leetcode/tree/main/0143-reorder-list)
-#### 10. []()
+#### 10. [0023-merge-k-sorted-lists](https://github.com/Pushpakumar02/leetcode/tree/main/0023-merge-k-sorted-lists)
 #### 11. []()
 
 <summary><span style="font-size:1.17em">Trees</span></summary>
@@ -255,7 +255,7 @@
 #### 3. [0141-linked-list-cycle](https://github.com/Pushpakumar02/leetcode/tree/main/0141-linked-list-cycle)
 #### 4. [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpakumar02/leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
 #### 5. [0143-reorder-list](https://github.com/Pushpakumar02/leetcode/tree/main/0143-reorder-list)
-#### 6. []()
+#### 6. [0023-merge-k-sorted-lists](https://github.com/Pushpakumar02/leetcode/tree/main/0023-merge-k-sorted-lists)
 
 <summary><span style="font-size:1.17em">Trees</span></summary>
 
