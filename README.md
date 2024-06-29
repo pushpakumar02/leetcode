@@ -80,7 +80,7 @@
 #### 11. [0098-validate-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0098-validate-binary-search-tree)
 #### 12.[0230-kth-smallest-element-in-a-bst](https://github.com/Pushpakumar02/leetcode/tree/main/0230-kth-smallest-element-in-a-bst)
 #### 13. [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pushpakumar02/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal)
-#### 14. []()
+#### 14. [0124-binary-tree-maximum-path-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0124-binary-tree-maximum-path-sum)
 #### 15. []()
 
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
@@ -268,7 +268,7 @@
 #### 7. [0098-validate-binary-search-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0098-validate-binary-search-tree)
 #### 8. [0230-kth-smallest-element-in-a-bst](https://github.com/Pushpakumar02/leetcode/tree/main/0230-kth-smallest-element-in-a-bst)
 #### 9. [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pushpakumar02/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal)
-#### 10. 
+#### 10. [0124-binary-tree-maximum-path-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0124-binary-tree-maximum-path-sum)
 #### 11. 
 
 
