@@ -89,7 +89,7 @@
 #### 2. [1046-last-stone-weight](https://github.com/Pushpakumar02/leetcode/tree/main/1046-last-stone-weight)
 #### 3. [0973-k-closest-points-to-origin](https://github.com/Pushpakumar02/leetcode/tree/main/0973-k-closest-points-to-origin)
 #### 4. [0215-kth-largest-element-in-an-array](https://github.com/Pushpakumar02/leetcode/tree/main/0215-kth-largest-element-in-an-array)
-#### 5. []()
+#### 5. [0295-find-median-from-data-stream](https://github.com/Pushpakumar02/leetcode/tree/main/0295-find-median-from-data-stream)
 #### 6. []()
 #### 7. []()
 
@@ -274,7 +274,7 @@
 
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
 
-#### 11. []()
+#### 1. [0295-find-median-from-data-stream](https://github.com/Pushpakumar02/leetcode/tree/main/0295-find-median-from-data-stream)
 
 <summary><span style="font-size:1.17em">Backtracking</span></summary>
 
