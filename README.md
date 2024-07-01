@@ -125,7 +125,7 @@
 #### 9. [0210-course-schedule-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0210-course-schedule-ii)
 #### 10. [0261-Graph-Valid-Tree](https://github.com/Pushpakumar02/leetcode/tree/main/0261-Graph-Valid-Tree)
 #### 11. [0684-redundant-connection](https://github.com/Pushpakumar02/leetcode/tree/main/0684-redundant-connection)
-#### 12. []()
+#### 12. [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Pushpakumar02/leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph)
 #### 13. []()
 
 <summary><span style="font-size:1.17em">Advanced Graphs</span></summary>
@@ -294,7 +294,7 @@
 #### 3. [0417-pacific-atlantic-water-flow](https://github.com/Pushpakumar02/leetcode/tree/main/0417-pacific-atlantic-water-flow)
 #### 4. [0207-course-schedule](https://github.com/Pushpakumar02/leetcode/tree/main/0207-course-schedule)
 #### 5. [0261-Graph-Valid-Tree](https://github.com/Pushpakumar02/leetcode/tree/main/0261-Graph-Valid-Tree)
-#### 6. 
+#### 6. [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Pushpakumar02/leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph)
 
 
 <summary><span style="font-size:1.17em">Advanced Graphs</span></summary>
