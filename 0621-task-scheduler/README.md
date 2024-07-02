@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/task-scheduler">621. Task Scheduler</a></h2><h3>Medium</h3><hr><p>You are given an array of CPU <code>tasks</code>, each represented by letters&nbsp;A&nbsp;to Z, and a cooling time, <code>n</code>. Each cycle or interval allows the completion of one task. Tasks can be completed in any order, but there&#39;s a constraint: <strong>identical</strong> tasks must be separated by at least <code>n</code> intervals due to cooling time.</p>
+<h2><a href="https://leetcode.com/problems/task-scheduler">621. Task Scheduler</a></h2><h3>Medium - Heap/Priority Queue</h3><hr><p>You are given an array of CPU <code>tasks</code>, each represented by letters&nbsp;A&nbsp;to Z, and a cooling time, <code>n</code>. Each cycle or interval allows the completion of one task. Tasks can be completed in any order, but there&#39;s a constraint: <strong>identical</strong> tasks must be separated by at least <code>n</code> intervals due to cooling time.</p>
 
 <p>​Return the <em>minimum number of intervals</em> required to complete all tasks.</p>
 
