@@ -186,7 +186,7 @@
 #### 3. [0435-non-overlapping-intervals](https://github.com/Pushpakumar02/leetcode/tree/main/0435-non-overlapping-intervals)
 #### 4. [0252-Meeting-Rooms](https://github.com/Pushpakumar02/leetcode/tree/main/0252-Meeting-Rooms)
 #### 5. [0253-Meeting-Rooms-II](https://github.com/Pushpakumar02/leetcode/tree/main/0253-Meeting-Rooms-II)
-#### 6. []()
+#### 6. [1851-minimum-interval-to-include-each-query](https://github.com/Pushpakumar02/leetcode/tree/main/1851-minimum-interval-to-include-each-query)
 
 
 <summary><span style="font-size:1.17em">Math & Geometry</span></summary>
