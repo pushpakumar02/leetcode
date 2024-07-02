@@ -358,7 +358,8 @@
 
 ---
 
-**Total Solved: 118**
+**Total Solved: 166**
+
 <details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
  
@@ -386,10 +387,7 @@
 #### 22. [1929 - Concatenation of Array](https://github.com/Pushpakumar02/leetcode/tree/main/1929-concatenation-of-array)
 #### 23. [0027-remove-element](https://github.com/Pushpakumar02/leetcode/tree/main/0027-remove-element)
 
-</details>
 
-
-<details>
 <summary><span style="font-size:1.17em">Two Pointers</span></summary>
 
 #### 1. [0011 - Container with Most Water](https://github.com/Pushpakumar02/leetcode/tree/main/0011-container-with-most-water)
@@ -404,9 +402,7 @@
 #### 10. [0392 - Is Subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0392-is-subsequence)
 #### 11. [0680 - Valid Palindrome II](https://github.com/Pushpakumar02/leetcode/tree/main/0680-valid-palindrome-ii)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Sliding Window</span></summary>
 
 #### 1. [0003 - Longest Substring Without Repeating Characters](https://github.com/Pushpakumar02/leetcode/tree/main/0003-longest-substring-without-repeating-characters)
@@ -416,9 +412,7 @@
 #### 5. [0076-minimum-window-substring](https://github.com/Pushpakumar02/leetcode/tree/main/0076-minimum-window-substring)
 #### 6. [0239-sliding-window-maximum](https://github.com/Pushpakumar02/leetcode/tree/main/0239-sliding-window-maximum)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Stack</span></summary>
 
 #### 1. [0020 - Valid Parentheses](https://github.com/Pushpakumar02/leetcode/tree/main/0020-valid-parentheses)
@@ -431,9 +425,7 @@
 #### 8. [0739 - Daily Temperatures](https://github.com/Pushpakumar02/leetcode/tree/main/0739-daily-temperatures)
 #### 9. [0853 - Car Fleet](https://github.com/Pushpakumar02/leetcode/tree/main/0853-car-fleet)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Binary Search</span></summary>
 
 #### 1. [0704 - Binary Search](https://github.com/Pushpakumar02/leetcode/tree/main/0704-binary-search)
@@ -444,9 +436,7 @@
 #### 6. [0981-time-based-key-value-store](https://github.com/Pushpakumar02/leetcode/tree/main/0981-time-based-key-value-store)
 #### 7. [0004-median-of-two-sorted-arrays](https://github.com/Pushpakumar02/leetcode/tree/main/0004-median-of-two-sorted-arrays)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Linked List</span></summary>
 
 #### 1. [0206 - Reverse Linked List](https://github.com/Pushpakumar02/leetcode/tree/main/0206-reverse-linked-list)
@@ -461,9 +451,7 @@
 #### 10. [0023-merge-k-sorted-lists](https://github.com/Pushpakumar02/leetcode/tree/main/0023-merge-k-sorted-lists)
 #### 11. [0025-reverse-nodes-in-k-group](https://github.com/Pushpakumar02/leetcode/tree/main/0025-reverse-nodes-in-k-group)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Trees</span></summary>
 
 #### 1. [0226-invert-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0226-invert-binary-tree)
@@ -482,9 +470,7 @@
 #### 14. [0124-binary-tree-maximum-path-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0124-binary-tree-maximum-path-sum)
 #### 15. [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Heap/Priority Queue</span></summary>
 
 #### 1. [0703-kth-largest-element-in-a-stream](https://github.com/Pushpakumar02/leetcode/tree/main/0703-kth-largest-element-in-a-stream)
@@ -496,9 +482,7 @@
 #### 7. [0355-design-twitter](https://github.com/Pushpakumar02/leetcode/tree/main/0355-design-twitter)
 
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Backtracking</span></summary>
 
 #### 1. [0078-subsets](https://github.com/Pushpakumar02/leetcode/tree/main/0078-subsets)
@@ -511,9 +495,7 @@
 #### 8. [0017-letter-combinations-of-a-phone-number](https://github.com/Pushpakumar02/leetcode/tree/main/0017-letter-combinations-of-a-phone-number)
 #### 9. [0051-n-queens](https://github.com/Pushpakumar02/leetcode/tree/main/0051-n-queens)
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Tries</span></summary>
 
 #### 1. [0208-implement-trie-prefix-tree](https://github.com/Pushpakumar02/leetcode/tree/main/0208-implement-trie-prefix-tree)
@@ -521,9 +503,7 @@
 #### 3. [0212-word-search-ii](https://github.com/Pushpakumar02/leetcode/tree/main/0212-word-search-ii)
 
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Graphs</span></summary>
 
 #### 1. [0200-number-of-islands](https://github.com/Pushpakumar02/leetcode/tree/main/0200-number-of-islands)
@@ -541,9 +521,7 @@
 #### 13. [0127-word-ladder](https://github.com/Pushpakumar02/leetcode/tree/main/0127-word-ladder)
 
 
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">Advanced Graphs</span></summary>
 
 #### 1. [1584-min-cost-to-connect-all-points](https://github.com/Pushpakumar02/leetcode/tree/main/1584-min-cost-to-connect-all-points)
@@ -552,9 +530,7 @@
 #### 4. []()
 #### 5. []()
 #### 6. []()
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
 
  #### 1. [0070-climbing-stairs](https://github.com/Pushpakumar02/leetcode/tree/main/0070-climbing-stairs)
@@ -569,9 +545,7 @@
  #### 10. [0139-word-break](https://github.com/Pushpakumar02/leetcode/tree/main/0139-word-break)
  #### 11. [0300-longest-increasing-subsequence](https://github.com/Pushpakumar02/leetcode/tree/main/0300-longest-increasing-subsequence)
  #### 12. [0416-partition-equal-subset-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0416-partition-equal-subset-sum)
-</details>
 
-<details>
 <summary><span style="font-size:1.17em">2-D Dynamic Programming</span></summary>
 
 #### 1. [0062-unique-paths](https://github.com/Pushpakumar02/leetcode/tree/main/0062-unique-paths)
@@ -586,7 +560,6 @@
 #### 10. []()
 #### 11. []()
 
-</details>
 
 <summary><span style="font-size:1.17em">Greedy</span></summary>
 
