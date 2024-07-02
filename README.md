@@ -1,4 +1,4 @@
-<h1 tabindex="-1" class="heading-element" dir="auto"><a href="#leetcode Problemset">leetcode Problemset</a></h1>
+<h1 tabindex="-1" class="heading-element" dir="auto"><a href="#leetcode-Problemset">leetcode Problemset</a></h1>
 
 ### [Neetcode 150](https://neetcode.io/practice)
 
@@ -211,7 +211,7 @@
 #### 7. [0007-reverse-integer](https://github.com/Pushpakumar02/leetcode/tree/main/0007-reverse-integer)
 
 <div align="right" dir="auto">
-  <b><a href="# leetcode Problemset">↥ Back To Top</a></b>
+  <b><a href="#leetcode-Problemset">↥ Back To Top</a></b>
 </div>
 
 ---
@@ -353,9 +353,10 @@
 #### 5. [0371-sum-of-two-integers](https://github.com/Pushpakumar02/leetcode/tree/main/0371-sum-of-two-integers)
 
 <div align="right" dir="auto">
-  <b><a href="# leetcode Problemset">↥ Back To Top</a></b>
+  <b><a href="#leetcode-Problemset">↥ Back To Top</a></b>
 </div>
---
+
+---
 
 **Total Solved: 118**
 <details>
@@ -631,10 +632,8 @@
 
 
 <div align="right" dir="auto">
-  <b><a href="# leetcode Problemset">↥ Back To Top</a></b>
+  <b><a href="#leetcode-Problemset">↥ Back To Top</a></b>
 </div>
-
-
 
 
 
