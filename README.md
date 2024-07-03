@@ -134,7 +134,7 @@
 #### 2. [0787-cheapest-flights-within-k-stops](https://github.com/Pushpakumar02/leetcode/tree/main/0787-cheapest-flights-within-k-stops)
 #### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
 #### 4. [0269-Alien-Dictionary](https://github.com/Pushpakumar02/leetcode/tree/main/0269-Alien-Dictionary)
-#### 5. []()
+#### 5. [0332-reconstruct-itinerary](https://github.com/Pushpakumar02/leetcode/tree/main/0332-reconstruct-itinerary)
 #### 6. []()
 
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
@@ -358,9 +358,8 @@
 
 ---
 
-**Total Solved: 166**
+**Total Solved: 167**
 
-<details>
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
  
 #### 1. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
@@ -527,7 +526,7 @@
 #### 1. [1584-min-cost-to-connect-all-points](https://github.com/Pushpakumar02/leetcode/tree/main/1584-min-cost-to-connect-all-points)
 #### 2. [0787-cheapest-flights-within-k-stops](https://github.com/Pushpakumar02/leetcode/tree/main/0787-cheapest-flights-within-k-stops)
 #### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
-#### 4. []()
+#### 4. [0332-reconstruct-itinerary](https://github.com/Pushpakumar02/leetcode/tree/main/0332-reconstruct-itinerary)
 #### 5. []()
 #### 6. []()
 
