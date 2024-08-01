@@ -527,7 +527,7 @@
 #### 2. [0787-cheapest-flights-within-k-stops](https://github.com/Pushpakumar02/leetcode/tree/main/0787-cheapest-flights-within-k-stops)
 #### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
 #### 4. [0332-reconstruct-itinerary](https://github.com/Pushpakumar02/leetcode/tree/main/0332-reconstruct-itinerary)
-#### 5. []()
+#### 5. [0312-burst-balloons](https://github.com/Pushpakumar02/leetcode/tree/main/0312-burst-balloons)
 #### 6. []()
 
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
