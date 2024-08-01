@@ -135,7 +135,7 @@
 #### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
 #### 4. [0269-Alien-Dictionary](https://github.com/Pushpakumar02/leetcode/tree/main/0269-Alien-Dictionary)
 #### 5. [0332-reconstruct-itinerary](https://github.com/Pushpakumar02/leetcode/tree/main/0332-reconstruct-itinerary)
-#### 6. []()
+#### 6. [0778-swim-in-rising-water](https://github.com/Pushpakumar02/leetcode/tree/main/0778-swim-in-rising-water)
 
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
 
