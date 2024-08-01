@@ -163,7 +163,7 @@
 #### 6. [0097-interleaving-string](https://github.com/Pushpakumar02/leetcode/tree/main/0097-interleaving-string)
 #### 7. [0072-edit-distance](https://github.com/Pushpakumar02/leetcode/tree/main/0072-edit-distance)
 #### 8. [0329-longest-increasing-path-in-a-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix)
-#### 9. []()
+#### 9. [0115-distinct-subsequences](https://github.com/Pushpakumar02/leetcode/tree/main/0115-distinct-subsequences)
 #### 10. []()
 #### 11. []()
 
