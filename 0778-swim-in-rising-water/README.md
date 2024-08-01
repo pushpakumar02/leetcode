@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/swim-in-rising-water/">778. Swim in Rising Water</a></h2><h3>Hard</h3><hr><p>You are given an <code>n x n</code> integer matrix <code>grid</code> where each value <code>grid[i][j]</code> represents the elevation at that point <code>(i, j)</code>.</p>
+<h2><a href="https://leetcode.com/problems/swim-in-rising-water/">778. Swim in Rising Water</a></h2><h3>Hard - Advanced Graphs</h3><hr><p>You are given an <code>n x n</code> integer matrix <code>grid</code> where each value <code>grid[i][j]</code> represents the elevation at that point <code>(i, j)</code>.</p>
 
 <p>The rain starts to fall. At time <code>t</code>, the depth of the water everywhere is <code>t</code>. You can swim from a square to another 4-directionally adjacent square if and only if the elevation of both squares individually are at most <code>t</code>. You can swim infinite distances in zero time. Of course, you must stay within the boundaries of the grid during your swim.</p>
 
