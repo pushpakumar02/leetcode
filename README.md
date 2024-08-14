@@ -164,8 +164,8 @@
 #### 7. [0072-edit-distance](https://github.com/Pushpakumar02/leetcode/tree/main/0072-edit-distance)
 #### 8. [0329-longest-increasing-path-in-a-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix)
 #### 9. [0115-distinct-subsequences](https://github.com/Pushpakumar02/leetcode/tree/main/0115-distinct-subsequences)
-#### 10. []()
-#### 11. []()
+#### 10. [0312-burst-balloons](https://github.com/Pushpakumar02/leetcode/tree/main/0312-burst-balloons)
+#### 11. [0010-regular-expression-matching](https://github.com/Pushpakumar02/leetcode/tree/main/0010-regular-expression-matching)
 
 
 <summary><span style="font-size:1.17em">Greedy</span></summary>
@@ -358,7 +358,7 @@
 
 ---
 
-**Total Solved: 167**
+**Total Solved: 172**
 
 <summary><span style="font-size:1.17em">Arrays & Hashing</span></summary>
  
@@ -528,7 +528,7 @@
 #### 3. [0743-network-delay-time](https://github.com/Pushpakumar02/leetcode/tree/main/0743-network-delay-time)
 #### 4. [0332-reconstruct-itinerary](https://github.com/Pushpakumar02/leetcode/tree/main/0332-reconstruct-itinerary)
 #### 5. [0312-burst-balloons](https://github.com/Pushpakumar02/leetcode/tree/main/0312-burst-balloons)
-#### 6. []()
+#### 6. [0778-swim-in-rising-water](https://github.com/Pushpakumar02/leetcode/tree/main/0778-swim-in-rising-water)
 
 <summary><span style="font-size:1.17em">1-D Dynamic Programming</span></summary>
 
@@ -554,11 +554,10 @@
 #### 5. [0494-target-sum](https://github.com/Pushpakumar02/leetcode/tree/main/0494-target-sum)
 #### 6. [0097-interleaving-string](https://github.com/Pushpakumar02/leetcode/tree/main/0097-interleaving-string)
 #### 7. [0072-edit-distance](https://github.com/Pushpakumar02/leetcode/tree/main/0072-edit-distance)
-#### 8. []()
-#### 9. []()
-#### 10. []()
-#### 11. []()
-
+#### 8. [0329-longest-increasing-path-in-a-matrix](https://github.com/Pushpakumar02/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix)
+#### 9. [0115-distinct-subsequences](https://github.com/Pushpakumar02/leetcode/tree/main/0115-distinct-subsequences)
+#### 10. [0312-burst-balloons](https://github.com/Pushpakumar02/leetcode/tree/main/0312-burst-balloons)
+#### 11. [0010-regular-expression-matching](https://github.com/Pushpakumar02/leetcode/tree/main/0010-regular-expression-matching)
 
 <summary><span style="font-size:1.17em">Greedy</span></summary>
 
