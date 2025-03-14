@@ -9,7 +9,7 @@
 #### 3. [0001 - Two Sum](https://github.com/Pushpakumar02/leetcode/tree/main/0001-two-sum)
 #### 4. [0049 - Group Anagrams](https://github.com/Pushpakumar02/leetcode/tree/main/0049-group-anagrams)
 #### 5. [0347 - Top K Frequent Elements](https://github.com/Pushpakumar02/leetcode/tree/main/0347-top-k-frequent-elements)
-#### 6. [0271 - Encode and Decode Strings](https://github.com/Pushpakumar02/leetcode/tree/main/0271-encode-and-decode-strings) 
+#### 6. [0271 - Encode and Decode Strings](https://github.com/pushpakumar02/leetcode/tree/main/0271-Encode-and-Decode-Strings) 
 #### 7. [0238 - Product of Array Except Self](https://github.com/Pushpakumar02/leetcode/tree/main/0238-product-of-array-except-self)
 #### 8. [0036 - Valid Sudoku](https://github.com/Pushpakumar02/leetcode/tree/main/0036-valid-sudoku)
 #### 9. [0128 - Longest Consecutive Sequence](https://github.com/Pushpakumar02/leetcode/tree/main/0128-longest-consecutive-sequence)
